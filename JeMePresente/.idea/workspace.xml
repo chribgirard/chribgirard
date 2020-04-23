@@ -16,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -33,7 +34,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PremierProjet/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chris\OneDrive\Bureau\IntegrationWeb-1\chribgirard\JeMePresente\css" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,6 +56,8 @@
       <workItem from="1587002013661" duration="8000" />
       <workItem from="1587002439748" duration="3000" />
       <workItem from="1587324636250" duration="5039000" />
+      <workItem from="1587330647936" duration="70000" />
+      <workItem from="1587595584989" duration="11220000" />
     </task>
     <servers />
   </component>
@@ -56,13 +65,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1587327779706">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1587595837770">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587327779706" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587324650094">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587595837770" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587595829328">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587324650094" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587595829328" />
   </component>
 </project>

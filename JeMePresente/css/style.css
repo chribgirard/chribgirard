@@ -1,0 +1,51 @@
+/* css.css */
+/* Créé par Christine Brendell-Girard */
+/* Le 22 avril 2019 */
+
+body {
+    width: 900px;
+    background: cadetblue url("../img/fondecran.jpg") no-repeat center;
+    margin: auto;
+}
+h1, h2{
+    color: indigo;
+    text-align: center;
+}
+h1{
+    font-size: 2em;
+}
+
+h2{
+    font-size: 1em;
+}
+
+p{
+    font-size: 0.875em; text-align: justify;
+}
+
+/*pour les liens*/
+a{
+    text-decoration: none; color: cornflowerblue;
+}
+a:hover{
+    text-decoration: underline;
+}
+a:visited{
+    color: darkblue;
+}
+
+
+img{
+    height: 18.75em; width: 25.5em; border-radius: 2.5em;
+}
+img:hover{
+    box-shadow: 5px 10px darkcyan;}
+
+table{
+    border: medium solid; font-size: medium; text-align: left
+}
+
+
+li{
+    font-size: medium; color: darkslategray;
+}
