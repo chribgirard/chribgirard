@@ -42,10 +42,10 @@ img:hover{
     box-shadow: 5px 10px darkcyan;}
 
 table{
-    border: medium solid; font-size: medium; text-align: left
+    border: medium solid; font-size: medium; text-align: left; background-color: dimgrey;
 }
 
 
 li{
-    font-size: medium; color: darkslategray;
+    font-size: large; color: darkslategray;
 }
