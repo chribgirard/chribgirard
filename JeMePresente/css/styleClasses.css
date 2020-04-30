@@ -1,0 +1,43 @@
+/* css.css */
+/* Créé par Christine Brendell-Girard */
+/* Le 29 avril 2019 */
+
+#travailEtude
+{background-color: lightcoral}
+#sport
+{background-color: dimgrey}
+#loisirs
+{background-color: cornflowerblue}
+#reves
+{background-color: palegreen}
+
+.belleImage:hover
+{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+img{
+    height: 18.75em; width: 25.5em;
+}
+
+
+.premiertitre {
+    font-family: font1, sans-serif;
+    font-size: 1rem;
+    color: darkslategrey;
+}
+
+a {
+    text-decoration: none; color: darkslategrey;
+}
+
+.deuxtitre {
+    font-family: 'Open', sans-serif;
+    font-size: 2rem;
+    color: midnightblue;
+}
+
+table{
+    border: medium solid; font-size: medium; text-align: left; background-color: dimgrey;
+}

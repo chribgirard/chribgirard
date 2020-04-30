@@ -34,11 +34,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Han Solo" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chris\OneDrive\Bureau\IntegrationWeb-1\chribgirard\JeMePresente" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chris\OneDrive\Bureau\IntegrationWeb-1\chribgirard\JeMePresente\font" />
       <recent name="C:\Users\chris\OneDrive\Bureau\IntegrationWeb-1\chribgirard\JeMePresente\css" />
     </key>
   </component>
@@ -59,6 +63,7 @@
       <workItem from="1587330647936" duration="70000" />
       <workItem from="1587595584989" duration="11838000" />
       <workItem from="1587932529319" duration="960000" />
+      <workItem from="1588199884212" duration="9197000" />
     </task>
     <servers />
   </component>
@@ -66,13 +71,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1587595837770">
+    <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1588206104638">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587595837770" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587932529890">
+    <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1588206104638" />
+    <state x="457" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588205780924">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587932529890" />
+    <state x="457" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1588205780924" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1588210502534">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588210502534" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588199898586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588199898586" />
   </component>
 </project>

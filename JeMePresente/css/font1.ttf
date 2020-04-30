@@ -1,0 +1,11 @@
+/* font */
+/* Créé par Christine Brendell-Girard */
+/* Le 29 avril 2019 */
+
+
+@font-face {
+         font-family: font1;
+         src: url(font1.ttf);
+         }
+
+<link href=:"https://fonts.google.com/specimen/Open+Sans+Condensed=Open" rel="sytleClasses">
