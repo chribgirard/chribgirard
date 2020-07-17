@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ff59c81-16ff-4dd4-970b-9dfcdad73852" name="Default Changelist" comment="" />
+    <list default="true" id="5475dfbb-635b-44f9-8721-e57134986539" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1bsBKiiawoJxB5S6D9yportHUbs" />
+  <component name="ProjectId" id="1bsUUJA5LGI5zw7W4vs4n3dmPKh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,12 +34,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Examen2" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chris\OneDrive\Bureau\IntegrationWeb-1\chribgirard\Formulaire" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\chris\OneDrive\Bureau\IntegrationWeb1\untitled" />
+      <recent name="C:\Users\chris\OneDrive\Bureau\IntegrationWeb1\template" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -47,20 +50,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4ff59c81-16ff-4dd4-970b-9dfcdad73852" name="Default Changelist" comment="" />
-      <created>1589410858143</created>
+      <changelist id="5475dfbb-635b-44f9-8721-e57134986539" name="Default Changelist" comment="" />
+      <created>1589420308344</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1589410858143</updated>
-      <workItem from="1589410860173" duration="8177000" />
-      <workItem from="1589419658084" duration="941000" />
-      <workItem from="1589420628716" duration="23000" />
-      <workItem from="1590014033137" duration="575000" />
-      <workItem from="1590016843849" duration="23000" />
-      <workItem from="1590018393474" duration="4212000" />
-      <workItem from="1590333685420" duration="313000" />
-      <workItem from="1590619403937" duration="503000" />
-      <workItem from="1591282300318" duration="1022000" />
+      <updated>1589420308344</updated>
+      <workItem from="1589420309913" duration="133000" />
+      <workItem from="1590016869544" duration="480000" />
+      <workItem from="1590017366341" duration="823000" />
+      <workItem from="1590018198670" duration="37000" />
+      <workItem from="1590620120696" duration="229000" />
+      <workItem from="1591292019910" duration="214000" />
+      <workItem from="1592433538838" duration="489000" />
+      <workItem from="1592434305009" duration="574000" />
+      <workItem from="1592435213301" duration="10000" />
+      <workItem from="1592435262835" duration="647000" />
+      <workItem from="1592439077815" duration="5790000" />
+      <workItem from="1592750221047" duration="182000" />
+      <workItem from="1592868928788" duration="557000" />
     </task>
     <servers />
   </component>
@@ -68,13 +75,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1590619880908">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1592868954350">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590619880908" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1590619411408">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592868954350" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1592868929217">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590619411408" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592868929217" />
   </component>
 </project>

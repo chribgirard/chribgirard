@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e335007-18ae-4696-851f-c655e8d84a1d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dhEcXtXAYy45to3QHpyoFerRFb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chris\OneDrive\Bureau\IntegrationWeb-1\chribgirard\PojetFinalHTML-1" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e335007-18ae-4696-851f-c655e8d84a1d" name="Default Changelist" comment="" />
+      <created>1592869004244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592869004244</updated>
+      <workItem from="1592869005795" duration="430000" />
+      <workItem from="1592869605770" duration="3559000" />
+      <workItem from="1593472695327" duration="5373000" />
+      <workItem from="1593522089804" duration="6860000" />
+      <workItem from="1594082905975" duration="5387000" />
+      <workItem from="1594167798181" duration="6425000" />
+      <workItem from="1594218196093" duration="16359000" />
+      <workItem from="1594654610877" duration="3712000" />
+      <workItem from="1594669997616" duration="379000" />
+      <workItem from="1594670640083" duration="227000" />
+      <workItem from="1594713368401" duration="175000" />
+      <workItem from="1594715427687" duration="822000" />
+      <workItem from="1594716274116" duration="57000" />
+      <workItem from="1594716505796" duration="2006000" />
+      <workItem from="1594999382414" duration="2909000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1594716325508">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594716325508" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1594716274682">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1594716274682" />
+    <state x="371" y="210" width="707" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1594171399284">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="371" y="210" width="707" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1594171399284" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1594239158381">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1594239158381" />
+  </component>
+</project>
