@@ -34,7 +34,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjetFinalHTML-1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -60,6 +60,7 @@
       <workItem from="1594924832591" duration="6955000" />
       <workItem from="1594950351553" duration="1131000" />
       <workItem from="1594996919177" duration="7309000" />
+      <workItem from="1595436813259" duration="188000" />
     </task>
     <servers />
   </component>
